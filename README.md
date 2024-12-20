@@ -1,17 +1,18 @@
 ### 谁明我心 👋
-## I'm xabozhu
-- 💻 Do R&D in Blockchain Company
+## I'm xiaodao
+- 💻 Do R&D in Block chain Company
 - 🌱 Interested in chain development, contract development
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email me](mailto:xabozhu@gmail.com) or [Twitter DMs](https://x.com/jughead1024)!
-- ☕ [Buy me a coffee](https://buymeacoffee.com/xabozhu)!
-- [HackQuest Certification](https://www.hackquest.io/zh/user/63266)
+- 📫 How to reach me: [Email me](mailto:lixiao187@gmail.com) or [Twitter DMs](https://twitter.com/Michael_e18)!
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/daog1)!
+- [HackQuest Certification](https://www.hackquest.io/zh/user/62778)
+- [DeCert Certification](https://decert.me/0xdD0979b988948b72aBc6413332E9eE160D629161)
 ## Github Overview
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xabozhu" alt="xabozhu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daog1" alt="daog1" /></a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabozhu&layout=compact&show_icons=true&hide_border=true" /> &nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daog1&layout=compact&show_icons=true&hide_border=true" /> &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=xabozhu&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=daog1&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
@@ -38,6 +39,15 @@
 
 
 ## Articles on Dev.to
-Check out my articles on [dev.to]https://dev.to/xabozhu) 🔖📖📚🤓
+Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
--[some articles](https://dev.to/xabozhu)
+- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb) - 17/12/2024
+- [solana是如何算seed地址](https://dev.to/xiaodao/solanashi-ru-he-suan-seeddi-zhi-d6p) - 17/12/2024
+- [vyper挺好玩的](https://dev.to/xiaodao/vyperting-hao-wan-de-2kok) - 09/11/2024
+- [最近的一些情况](https://dev.to/xiaodao/zui-jin-de-xie-qing-kuang-3g04) - 14/10/2024
+- [一些想法](https://dev.to/xiaodao/xie-xiang-fa-44mi) - 13/07/2024
+- [emacs org感觉挺好的](https://dev.to/xiaodao/emacs-orggan-jue-ting-hao-de-5f50) - 15/06/2024
+- [最近使用的几个工具](https://dev.to/xiaodao/zui-jin-shi-yong-de-ji-ge-gong-ju-1o3p) - 11/02/2024
+- [jq在区块链开发中的使用](https://dev.to/xiaodao/jqzai-qu-kuai-lian-kai-fa-zhong-de-shi-yong-50kc) - 11/09/2023
+- [lnav 自定义日志格式支持](https://dev.to/xiaodao/lnav-zi-ding-yi-ri-zhi-ge-shi-zhi-chi-578) - 26/02/2023
+- [两种常见的合约套路](https://dev.to/xiaodao/liang-chong-chang-jian-de-he-yue-tao-lu-3gh1) - 11/04/2022
